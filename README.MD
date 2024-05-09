@@ -48,7 +48,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | crie 10 headlines para nomes de artigos sobre assunto de Node.js                                                                                                                                                                                                    |
-| conteúdo | Comporte-se como um escritor de artigo de tech back-end e escreva o Artigo seguindo as {Regras} No máximo 5 linhas por parágrafo. Me explique de maneira informal, como se eu fosse uma pessoa sem onhecimento algum em linguagens de programação |
+| conteúdo | Comporte-se como um escritor de artigo de tech back-end e escreva o Artigo seguindo as {Regras} No máximo 5 linhas por parágrafo. Me explique de maneira informal, como se eu fosse uma pessoa sem conhecimento algum em linguagens de programação |
 
 
 Lexica.art：
